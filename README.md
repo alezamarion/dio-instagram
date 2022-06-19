@@ -1,2 +1,3 @@
 # dio-instagram
-Recreating the Instagram homepage
+
+Recreating an old Instagram homepage
