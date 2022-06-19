@@ -7,7 +7,6 @@ Recreating an old Instagram homepage
 git clone https://github.com/alezamarion/dio-instagram.git && cd dio-instagram
 open instagram.html with your browser
 ```
+<br>
 
-
-
-![ft_print.png](img/page.png)
+![page.png](img/page.png)
