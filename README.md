@@ -8,6 +8,6 @@ git clone https://github.com/alezamarion/dio-instagram.git && cd dio-instagram
 open instagram.html with your browser
 ```
 
-<img src="https://alezamarion.github.io/dio-instagram/img/page.png">
+<img src="https://alezamarion.github.com/dio-instagram/img/page.png">
 
 
